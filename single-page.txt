@@ -1,0 +1,41 @@
+http://www.ivanjevremovic.in.rs/live/motivation/
+http://www.ivanjevremovic.in.rs/live/motivation/cucumber-green/index-nivo-slider.html
+http://xvelopers.com/html/poison/demo.html
+http://www.deliciousthemes.com/demo/patti/
+http://wedesignthemes.com/html/appmojo/demo/
+http://www.mobilerace.net/GO/
+http://themeelite.com/demos/xpro/agency-version/slider/index.html
+http://preview.artlessthemes.com/FlatoHTML <- nice one
+http://demo.dethemes.com/luv/
+http://themeforest.net/item/heal-one-page-charity-html-template/full_screen_preview/8568747
+http://www.shegy.nazwa.pl/themeforest/webmakers/blue/
+
+
+http://themeforest.net/item/patti-parallax-one-page-html-template/6695692 <=== mockup
+http://themeforest.net/item/go-responsive-multipurpose-onepage-html/9056852 <== mockup
+
+
+1. Resume/CV
+2. Mulitpurpose
+3. Music/video
+4. Photography
+5. Freelancer
+6. Agency
+7. Corporate
+8. Event
+9. Landing Page
+10.Portfolio
+11.Law Firm
+12.Hotel and Resort
+13.Wedding
+14.App
+15.Comming Soon
+16.Underconstruction
+17.Charity
+18.WorkShop
+
+
+vCard style !important
+parallax style !important
+parallax only scroll style !important
+
