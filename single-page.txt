@@ -9,7 +9,7 @@ http://preview.artlessthemes.com/FlatoHTML <- nice one
 http://demo.dethemes.com/luv/
 http://themeforest.net/item/heal-one-page-charity-html-template/full_screen_preview/8568747
 http://www.shegy.nazwa.pl/themeforest/webmakers/blue/
-
+http://www.odindesign-themes.com/theBebop/anime/ --> efent page concept
 
 http://demo.nrgthemes.com/vor
 
@@ -38,6 +38,8 @@ http://themeforest.net/item/go-responsive-multipurpose-onepage-html/9056852 <== 
 19.Children
 
 vCard style !important
+Slider Variation !important
+Navigation Variation !important
 parallax style !important
 parallax only scroll style !important
 
